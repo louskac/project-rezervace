@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Poppins:wght@500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 32px;
+}
+.btn1{
+    background-color: #5700C3;
+    padding: 10px 30px;
+}
+.btn1:hover{
+    background-color: #00C1B6;
+}
+.btn2{
+    background-color: #00C1B6;
+    padding: 10px 30px;
+}
+.btn2:hover{
+    background-color: #5700C3;
+}
